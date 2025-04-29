@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -47,35 +48,3 @@
   </footer>
 </body>
 </html>
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  background-color: #f0f8ff;
-  color: #003366;
-}
-header {
-  background-color: #003366;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
-section {
-  padding: 20px;
-  text-align: center;
-}
-img {
-  max-width: 90%;
-  height: auto;
-  border-radius: 10px;
-  margin: 10px 0;
-}
-footer {
-  background-color: #003366;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
-a {
-  color: #00bfff;
-  text-decoration: none;
-}

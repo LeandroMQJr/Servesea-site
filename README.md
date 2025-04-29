@@ -1,4 +1,3 @@
-# Servesea-site
 <!DOCTYPE html><html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -110,5 +109,4 @@
     <p>&copy; 2025 Servesea. Todos os direitos reservados.</p>
   </footer>
 </body>
-</html>![1000100463](https://github.com/user-attachments/assets/5875b192-b725-4c4d-87f3-2a78c0dc80e3)
-![1000100462](https://github.com/user-attachments/assets/95207301-e091-4734-8f51-75d050811b05)
+</html>
